@@ -20,10 +20,10 @@ const default_configuration = {
   },
   additionalClocks: [
     {
-      label: "UA",
-      timezone: "Europe/Kyiv",
+      label: "RU",
+      timezone: "Europe/Moscow",
       format: "h:i",
-      icon_color: palette.peach,
+      icon_color: palette.red,
     },
   ],
   search: {

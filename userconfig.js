@@ -141,6 +141,13 @@ const default_configuration = {
               icon: "code-dots",
               icon_color: palette.red,
             },
+            {
+              name: "codeforces",
+              url: "https://codeforces.com",
+              icon: "code-plus",
+              icon_color: palette.blue,
+            },
+
           ],
         },
         {
